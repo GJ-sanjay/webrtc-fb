@@ -1,5 +1,5 @@
 {
-  "name": "webrtc-demo",
+  "name": "vite-project",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -7,9 +7,6 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.5.0"
-  },
-  "dependencies": {
-    "firebase": "^8.10.0"
+    "vite": "^2.4.4"
   }
 }

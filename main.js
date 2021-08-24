@@ -3,8 +3,17 @@ import './style.css';
 import firebase from 'firebase/app';
 import 'firebase/firestore';
 
+
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  // your config
+  apiKey: "AIzaSyDl4JKy6-51OYEsCgMD8ZuS8AKQmbUNgfg",
+  authDomain: "sanjay-faf86.firebaseapp.com",
+  projectId: "sanjay-faf86",
+  storageBucket: "sanjay-faf86.appspot.com",
+  messagingSenderId: "698607191573",
+  appId: "1:698607191573:web:8aec087a673c3d15b4f01c",
+  measurementId: "G-TKFQKZZRN3"
+
 };
 
 if (!firebase.apps.length) {
