@@ -2,7 +2,9 @@
 
 Build a 1-to-1 video chat feature with WebRTC, Firestore, and JavaScript. 
 
-Watch the [WebRTC Explanation on YouTube](https://youtu.be/WmR9IMUD_CY) and follow the full [WebRTC Firebase Tutorial](https://fireship.io/lessons/webrtc-firebase-video-chat) on Fireship.io. 
+This application was built with the guidance of fireship.io using firebase as back end and WebRTC to communicate and establish connection between the clients to achieve a connection for the video chat.
+
+I HOPE YOU FIND THIS USEFUL!
 
 
 ## Usage
